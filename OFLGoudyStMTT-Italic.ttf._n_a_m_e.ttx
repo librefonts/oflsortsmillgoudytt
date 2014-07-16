@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2009 Barry Schwartz (http://crudfactory.com)
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      OFL Sorts Mill Goudy TT
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Italic
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      FontForge 2.0 : OFL Sorts Mill Goudy Italic TT : 9-1-2010
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      OFL Sorts Mill Goudy TT Italic
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 003.000 
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      OFLGoudyStMTT-Italic
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2009, Barry Schwartz (http://crudfactory.com),&#10;with Reserved Font Name OFL Sorts Mill Goudy Italic.&#10;&#10;&#10;This Font Software is licensed under the SIL Open Font License, Version 1.1.&#10;This license is available with a FAQ at:&#10;http://scripts.sil.org/OFL&#10;
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2009 Barry Schwartz (http://crudfactory.com)
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      OFL Sorts Mill Goudy TT
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Italic
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      FontForge 2.0 : OFL Sorts Mill Goudy Italic TT : 9-1-2010
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      OFL Sorts Mill Goudy TT Italic
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 003.000 
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      OFLGoudyStMTT-Italic
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2009, Barry Schwartz (http://crudfactory.com),&#10;with Reserved Font Name OFL Sorts Mill Goudy Italic.&#10;&#10;&#10;This Font Software is licensed under the SIL Open Font License, Version 1.1.&#10;This license is available with a FAQ at:&#10;http://scripts.sil.org/OFL&#10;
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+  </name>
+
+</ttFont>
